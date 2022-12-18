@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://loyalty-thameem.github.io/csb-v891ww/static/js/main.1fad2ade.chunk.js",
+    "main.js.map": "https://loyalty-thameem.github.io/csb-v891ww/static/js/main.1fad2ade.chunk.js.map",
+    "runtime-main.js": "https://loyalty-thameem.github.io/csb-v891ww/static/js/runtime-main.bacc6124.js",
+    "runtime-main.js.map": "https://loyalty-thameem.github.io/csb-v891ww/static/js/runtime-main.bacc6124.js.map",
+    "static/css/2.f26e749f.chunk.css": "https://loyalty-thameem.github.io/csb-v891ww/static/css/2.f26e749f.chunk.css",
+    "static/js/2.981c0906.chunk.js": "https://loyalty-thameem.github.io/csb-v891ww/static/js/2.981c0906.chunk.js",
+    "static/js/2.981c0906.chunk.js.map": "https://loyalty-thameem.github.io/csb-v891ww/static/js/2.981c0906.chunk.js.map",
+    "index.html": "https://loyalty-thameem.github.io/csb-v891ww/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "https://loyalty-thameem.github.io/csb-v891ww/static/css/2.f26e749f.chunk.css.map",
+    "static/js/2.981c0906.chunk.js.LICENSE.txt": "https://loyalty-thameem.github.io/csb-v891ww/static/js/2.981c0906.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bacc6124.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.981c0906.chunk.js",
+    "static/js/main.1fad2ade.chunk.js"
+  ]
+}
